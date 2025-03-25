@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>br.xksoberbado</groupId>
-    <artifactId>spring-data-envers</artifactId>
+    <artifactId>spring2-data-envers</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-data-envers</name>
     <description>Demo project for Spring Boot</description>

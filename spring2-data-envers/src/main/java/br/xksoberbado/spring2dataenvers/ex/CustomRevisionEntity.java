@@ -1,4 +1,4 @@
-package br.xksoberbado.springdataenvers.ex;
+package br.xksoberbado.spring2dataenvers.ex;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;

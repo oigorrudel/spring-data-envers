@@ -1,4 +1,4 @@
-package br.xksoberbado.springdataenvers.ex;
+package br.xksoberbado.spring2dataenvers.ex;
 
 import org.hibernate.envers.RevisionListener;
 

@@ -1,4 +1,4 @@
-package br.xksoberbado.springdataenvers.ex;
+package br.xksoberbado.spring2dataenvers.ex;
 
 import java.util.List;
 import java.util.stream.Collectors;
