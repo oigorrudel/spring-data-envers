@@ -1,0 +1,33 @@
+# GET all
+GET localhost:8080/v1/persons
+###
+
+# GET by id
+GET localhost:8080/v1/persons/fbe58ebe-ac21-4b58-9c20-e2191cbc18d5
+###
+
+# POST
+POST localhost:8080/v1/persons
+Content-Type: application/json
+
+{
+  "name": "Pedro"
+}
+###
+
+# PUT
+PUT localhost:8080/v1/persons/47a88453-4d51-42dd-9cd4-da7c55c027bc
+Content-Type: application/json
+
+{
+  "name": "Pedro 2"
+}
+###
+
+#DELETE
+DELETE localhost:8080/v1/persons/fbe58ebe-ac21-4b58-9c20-e2191cbc18d5
+###
+
+# GET revisions
+GET localhost:8080/v1/persons/fbe58ebe-ac21-4b58-9c20-e2191cbc18d5/revisions
+###
